@@ -2,7 +2,7 @@
 
 
 # Resumo do projeto
-Projeto em andamento, sendo realizado por integrantes do time Scuba da Alura, visando a prática com a linguagem Java e os conceitos do paradigma de orientação a objetos.
+Projeto em andamento,sendo realizado por integrantes do time Scuba da Alura, visando a prática com a linguagem Java e os conceitos do paradigma de orientação a objetos.
 
 ## 🔨 Funcionalidades do projeto
 
